@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "catalog_version": "box54-reference-2026-10-26-v1",
+  "box_id": "54.0",
+  "title": "明日方舟通行认证 54.0 · 款式参考",
+  "packing_assumption": {
+    "one_each": true,
+    "confirmed": false
+  },
+  "roles": [
+    {
+      "id": "r1",
+      "name": "凯尔希·思衡托"
+    },
+    {
+      "id": "r2",
+      "name": "可露希尔"
+    },
+    {
+      "id": "r3",
+      "name": "维伊"
+    },
+    {
+      "id": "r4",
+      "name": "谬因"
+    },
+    {
+      "id": "r5",
+      "name": "裂响"
+    },
+    {
+      "id": "r6",
+      "name": "佩德洛"
+    },
+    {
+      "id": "r7",
+      "name": "哈蒂娅"
+    }
+  ],
+  "items": [
+    {
+      "id": "54-r1-e1",
+      "role_id": "r1",
+      "role_name": "凯尔希·思衡托",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r1-e2",
+      "role_id": "r1",
+      "role_name": "凯尔希·思衡托",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r2-e1",
+      "role_id": "r2",
+      "role_name": "可露希尔",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r2-e2",
+      "role_id": "r2",
+      "role_name": "可露希尔",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r3-e1",
+      "role_id": "r3",
+      "role_name": "维伊",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r3-e2",
+      "role_id": "r3",
+      "role_name": "维伊",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r4-e1",
+      "role_id": "r4",
+      "role_name": "谬因",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r4-e2",
+      "role_id": "r4",
+      "role_name": "谬因",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r5-e1",
+      "role_id": "r5",
+      "role_name": "裂响",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r5-e2",
+      "role_id": "r5",
+      "role_name": "裂响",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r6-e1",
+      "role_id": "r6",
+      "role_name": "佩德洛",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r6-e2",
+      "role_id": "r6",
+      "role_name": "佩德洛",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r7-e1",
+      "role_id": "r7",
+      "role_name": "哈蒂娅",
+      "edition": "ELITE1",
+      "edition_label": "常规（精英一）",
+      "reference_prices": null
+    },
+    {
+      "id": "54-r7-e2",
+      "role_id": "r7",
+      "role_name": "哈蒂娅",
+      "edition": "ELITE2",
+      "edition_label": "精英二",
+      "reference_prices": null
+    }
+  ],
+  "sources": [
+    {
+      "label": "54.0 整组商品页与宣传图（代购转述）",
+      "url": "https://cyapan.net/items/6a535dda7e6f350001327945",
+      "note": "不是官方直接核价。角色顺序和宣传图版本已据商品图并与社区目录交叉核对；代购页面不能证实每款各一件或成交价格。"
+    },
+    {
+      "label": "54.0 单盒商品页（代购转述）",
+      "url": "https://cyapan.net/items/6a535df27e6f350001327953",
+      "note": "页面标题的25元单抽和350元整组仅为代购转述，未写入任何默认价格或实际成交价。14款参考价格均为未知。"
+    },
+    {
+      "label": "宣传图版本标签",
+      "url": "https://cyapan.net/items/6a535dda7e6f350001327945",
+      "note": "源图标注“常规VER”和“精英二VER”。本地界面关联为“常规（精英一）”与“精英二”；常规与精英一的关联用于模型ID，不另宣称官方文字改名。"
+    },
+    {
+      "label": "社区目录快照交叉核对",
+      "url": "https://raw.githubusercontent.com/awadwd/ArknightsAuthorization_Series-mirror/main/Box_Id.json",
+      "note": "本地2026-10-24快照的54.0行与7角色、14款名称一致，所有14款价格仍为unknown/null；按款式推算不能证实每款各一件或实际装箱。",
+      "snapshot_sha256": "68490dc915d417519b8e223bc43923d90e21c5f26dae3cb7e9e05ae8e2f7ed83"
+    },
+    {
+      "label": "图片来源、使用范围与当前回退",
+      "url": "https://cyapan.net/items/6a535dda7e6f350001327945",
+      "note": "公开商品图并非自由授权，版权仍归原权利人，仅供本地私人参考，不代表官方授权。2026-10-26仅对7张角色双款图作每张最多2次、每次5秒的正常TLS重试，成功0张；总览图未重试。仅成功图设置roles.image，其余保留文字卡片；逐张来源与结果见assets/box54-asset-sources.json。"
+    }
+  ]
+}

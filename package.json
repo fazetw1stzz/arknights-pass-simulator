@@ -1,0 +1,11 @@
+{
+  "name": "arknights-pass54-local-mvp",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test_port.mjs && node tests/test_ui_helpers.mjs && node tests/test_transport.mjs",
+    "serve": "python -B server.py",
+    "build": "python -B build_static.py"
+  }
+}
