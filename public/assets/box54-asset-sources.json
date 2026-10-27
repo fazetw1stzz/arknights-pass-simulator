@@ -2,354 +2,47 @@
   "schema_version": 1,
   "source_page": "https://cyapan.net/items/6a535dda7e6f350001327945",
   "retrieved_date_utc": "2026-10-26",
-  "usage": "Local private reference only; no free license or official endorsement claimed. Copyright remains with original rights holders.",
+  "usage": "Source reference only. Image files are not redistributed; no free license or official endorsement claimed. Copyright remains with original rights holders.",
   "images": [
     {
       "file": "box54-overview.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/179514b64a4c4c170c96.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r1.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/a681dbaa8d841e9eb231.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.3386
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.1933
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r2.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/19fbf8dce3088fc91c0b.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.1867
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.1952
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r3.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/548c207bd16dc2f44dcf.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.2064
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.186
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r4.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/1b2c3dd18a0ddc8c64ad.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.1967
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.2077
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r5.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/970765b04abacd20aaf6.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.1955
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.2033
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r6.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/195af90f09cfca1f14de.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.2028
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.176
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     },
     {
       "file": "box54-r7.jpg",
       "url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65191f5efe9350363a01d6fb/ba7d3ff64c5363130cb9.jpg/fit=cover,w=920,h=920",
-      "status": "unavailable",
-      "previous_failure": {
-        "status": "unavailable",
-        "error_type": "URLError",
-        "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
-      },
-      "retry_attempts": [
-        {
-          "attempt_this_retry": 1,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.1956
-        },
-        {
-          "attempt_this_retry": 2,
-          "timeout_seconds": 5,
-          "tls_verification": "default_verified",
-          "status": "unavailable",
-          "error_type": "URLError",
-          "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>",
-          "stop_resource": false,
-          "elapsed_seconds": 0.2
-        }
-      ],
-      "attempt_count_this_retry": 2,
-      "total_recorded_attempts_including_initial": 3,
-      "bytes": 0,
-      "sha256": null,
-      "error_type": "URLError",
-      "error": "<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>"
+      "status": "unavailable"
     }
-  ],
-  "bounded_role_retry": {
-    "date_utc": "2026-10-26",
-    "roles_only": [
-      "r1",
-      "r2",
-      "r3",
-      "r4",
-      "r5",
-      "r6",
-      "r7"
-    ],
-    "overview_retried": false,
-    "max_attempts_per_image_this_retry": 2,
-    "timeout_seconds_per_attempt": 5,
-    "tls_verification": "default_verified",
-    "results": [
-      {
-        "role_id": "r1",
-        "file": "box54-r1.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      },
-      {
-        "role_id": "r2",
-        "file": "box54-r2.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      },
-      {
-        "role_id": "r3",
-        "file": "box54-r3.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      },
-      {
-        "role_id": "r4",
-        "file": "box54-r4.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      },
-      {
-        "role_id": "r5",
-        "file": "box54-r5.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      },
-      {
-        "role_id": "r6",
-        "file": "box54-r6.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      },
-      {
-        "role_id": "r7",
-        "file": "box54-r7.jpg",
-        "attempts_this_retry": 2,
-        "status": "unavailable",
-        "bytes": 0,
-        "sha256": null
-      }
-    ]
-  }
+  ]
 }

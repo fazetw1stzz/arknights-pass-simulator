@@ -44,7 +44,7 @@ export function buildProbabilityGroups(catalog, probabilities, mode, valuationMe
   return {
     basis: 'roles',
     title: '下一抽的角色概率',
-    note: mode === 'preference' ? '档位信息不可用：以下按角色显示真实概率，不推测或补填喜好档位。' : '',
+    note: mode === 'preference' ? '档位信息不可用：以下按角色显示模型预测概率，不推测或补填喜好档位。' : '',
     groups,
   };
 }

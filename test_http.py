@@ -188,7 +188,7 @@ class WebHTTPTests(unittest.TestCase):
 
     def test_static_resources_and_runtime_provider(self):
         self.assertEqual(self.httpd.server_address[0], '127.0.0.1')
-        for path in ('/', '/app.mjs', '/api.mjs', '/model.mjs', '/styles.css', '/data/box54.json'):
+        for path in ('/', '/app.mjs', '/api.mjs', '/model.mjs', '/session-policy.mjs', '/styles.css', '/data/box54.json'):
             with self.subTest(path=path), urlopen(self.url + path, timeout=10) as response:
                 self.assertEqual(response.status, 200)
                 self.assertGreater(len(response.read()), 0)
