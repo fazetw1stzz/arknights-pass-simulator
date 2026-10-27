@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+dist/
+.env
+.env.*
+*.log
+*.zip
+*session*.json
+*export*.json
+CONTRACT*.txt
